@@ -25,4 +25,10 @@ Percabangan 1
 ![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(106).png)
 ![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(107).png)
 
-SaranResep2
+SaranBahanResep2
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(108).png)
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(109).png)
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(110).png)
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(111).png)
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(112).png)
+![Alt Text](https://github.com/rensimeila04/Jobsheet7danprogrampenagihanlistrik/blob/master/Screenshot%20(113).png)
